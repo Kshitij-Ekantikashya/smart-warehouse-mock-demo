@@ -13,7 +13,7 @@ This is a **Flutter web demo** of the Smart Warehouse IoT Dashboard, running ful
 - **Try all features instantly** in your browser.
 - All data—environment, inventory, alerts—is **simulated** for demo and evaluation.
 
-🟢 **Ideal for product management, case study, and portfolio review.**
+🟢 **This is ideally meant for product management, case study, and portfolio review.**
 
 ---
 
